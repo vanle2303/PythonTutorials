@@ -2,7 +2,7 @@
 """
 In Python, in order to run a program, we have to provide it an interpreter/executor. Normally, we use python3 as an
 interpreter
-But twe don't want to rewrite python3 every time we run our prog. Therefore, statement #!/usr/bin/python3 takes in place
+But we don't want to rewrite python3 every time we run our prog. Therefore, statement #!/usr/bin/python3 takes in place
 That is, when running a prog in Terminal and we declare "python3 file-name", Python will execute prog by using python3.
 Now  #!/usr/bin/python3 is treated as a comment.
 However, if we don't declare python3 and just provide file-name, Python will go all the way back to the beginning of the
